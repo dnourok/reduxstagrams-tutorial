@@ -12,3 +12,5 @@ Then run `npm start` and open <localhost:7770> in your browser.
 
 Run `npm build` to create a distro folder and a bundle.js file.
 
+
+*With my version you have to go to http://0.0.0.0:7770/ going to http://localhost:7770 will not work
